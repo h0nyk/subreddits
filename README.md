@@ -33,9 +33,9 @@ item, locked account etc.</i>
 <hr>
 
 
-This project requires python version 3.10 to run.
+This project requires Python version 3.10 to run.
 The easiest way to this is by using [uv](https://docs.astral.sh/uv/) 
-to create a [virtual environment](https://docs.astral.sh/uv/pip/environments/) that houses python version 3.10. If you don't have it installed already here is [how to install uv](https://docs.astral.sh/uv/#installation).
+to create a [virtual environment](https://docs.astral.sh/uv/pip/environments/) that houses Python version 3.10. If you don't have it installed already here is [how to install uv](https://docs.astral.sh/uv/#installation).
 
 
 #### Installation on Windows
